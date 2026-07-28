@@ -1,0 +1,14 @@
+# 临时文件(不提交)
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 用户凭证(不提交)
+.git-credentials
+.git-token
+
+# 大文件备份(不提交,源图在 Steam 备份里)
+*_backup.jpg
+*_original.jpg
